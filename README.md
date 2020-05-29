@@ -35,7 +35,7 @@ Backup for bg2:
 13. Trickster demon
 
 
-Backup folks if not everyone joined the bg:
+Backup folks if not everyone joined the bg during defense placement:
 Kingz
 Plutonian potato
 Uprootboredom2
@@ -43,5 +43,9 @@ Trickster demon
 Boomside
 Proverbs
 
+** Use your own judgement on whether or not you should join the way. For example, it's 2 hours before war ends and there's 3 more slots, then of course join. If there's 1 hour left then pls join any bg if there's a spot so I have time to place them.
 
 ** Side note for backup folks: When we are doing an AQ while AW should join BG3 map2 so you can reuse champs!
+
+Do not forget to not blindly put champions, choose the high ranking defensive champions that you have. Linked here: https://www.mcoc-guide.com/alliance-war-defender-suggestion-defensive-tier-list/
+
