@@ -44,4 +44,4 @@ Boomside
 Proverbs
 
 
-** Side note: for AQ backup folks should join bg3 map2 so you can reuse champs!
+** Side note for backup folks: When we are doing an AQ while AW should join BG3 map2 so you can reuse champs!
